@@ -1,7 +1,8 @@
 ```bash
 ➜ ~ cat niklas.yaml
 ```
-```yaml
+
+```hcl
   Name     : Niklas
   Location : Germany 🇩🇪
   Day job  : Wrangling AWS & Kubernetes since 2015 ☁️
